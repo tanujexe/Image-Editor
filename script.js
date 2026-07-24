@@ -24,7 +24,8 @@ let filters = {
 
   HueRotation: {
     value: 0,
-    min: 0,
+    mihhn: 0,
+    md:60,
     max: 360,
     unit: "deg"
   },
