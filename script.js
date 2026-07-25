@@ -1,7 +1,7 @@
 let filters = {
   Brightness: {
     value: 100,
-    min: 0,
+    min: 0dfkncerjk
     max: 200,
     unit: "%"
   },
