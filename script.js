@@ -1,5 +1,5 @@
 let filters = {
-  Brightness: {
+  Brightness: {fhdiugh
     value: 100,
     min: 0,
     max: 200,
